@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Boot-to-Windows
+Terminal=true
+Comment=Reboot directly into Windows
+Exec=boot-to-windows.sh
+Icon=/usr/share/icons/windows.png
+Type=Application
+Categories=Boot;Grub;Reboot;Windows;
+Keywords=Boot;Grub;Reboot;Windows;
