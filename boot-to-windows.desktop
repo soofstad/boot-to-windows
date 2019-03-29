@@ -6,5 +6,5 @@ Comment=Reboot directly into Windows
 Exec=boot-to-windows.sh
 Icon=/usr/share/icons/windows.png
 Type=Application
-Categories=Boot;Grub;Reboot;Windows;
+Categories=Utility;
 Keywords=Boot;Grub;Reboot;Windows;
